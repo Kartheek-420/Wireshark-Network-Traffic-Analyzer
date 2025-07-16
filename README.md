@@ -45,5 +45,4 @@ See the full project report: [Wireshark_Protocol_Analysis_Report.pdf](https://gi
 
 ## Author
 B. Kartheek  
-Cybersecurity Intern  
-Date: 07-10-2025
+Date: 15-10-2025
