@@ -41,7 +41,7 @@ This project focuses on analyzing various network protocols using Wireshark to u
 - Restrict or log ICMP traffic to prevent abuse
 
 ## Report
-See the full project report: [Wireshark_Protocol_Analysis_Report.pdf](./Wireshark_Protocol_Analysis_Report.pdf)
+See the full project report: [Wireshark_Protocol_Analysis_Report.pdf](https://github.com/Kartheek-420/Wireshark-Network-Traffic-Analyzer/blob/main/Wireshark_Protocol_Analysis_Report(Project).pdf)
 
 ## Author
 B. Kartheek  
